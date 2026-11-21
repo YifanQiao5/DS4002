@@ -1,0 +1,8 @@
+evaluation,balanced_accuracy,roc_auc,sensitivity,specificity
+"Repeated 5-fold CV, full cohort (mean ± SD over 10 repeats)",0.707 ± 0.046,0.787 ± 0.029,0.773 ± 0.073,0.640 ± 0.044
+"Leave-one-site-out, NYU",0.750,0.750,0.800,0.700
+"Leave-one-site-out, UCLA_1",0.750,0.790,0.600,0.900
+"Leave-one-site-out, UM_1",0.750,0.780,0.900,0.600
+"Leave-one-site-out, Mean across sites",0.750,0.773,0.767,0.733
+"Repeated 5-fold CV, Mean FD <= 0.15 mm (n = 57)",0.716 ± 0.025,0.775 ± 0.045,0.795 ± 0.044,0.637 ± 0.043
+"Leave-one-site-out mean, Mean FD <= 0.15 mm (n = 57)",0.748,0.813,0.796,0.700

@@ -1,0 +1,9 @@
+cohort,n,metric,cv_mean,cv_sd,loso_mean_across_sites
+Full cohort,60,balanced_accuracy,0.7067,0.0459,0.75
+Full cohort,60,roc_auc,0.7867,0.0294,0.7733
+Full cohort,60,sensitivity,0.7733,0.0734,0.7667
+Full cohort,60,specificity,0.64,0.0439,0.7333
+Mean FD <= 0.15 mm,57,balanced_accuracy,0.716,0.0252,0.7481
+Mean FD <= 0.15 mm,57,roc_auc,0.775,0.0455,0.813
+Mean FD <= 0.15 mm,57,sensitivity,0.7953,0.0436,0.7963
+Mean FD <= 0.15 mm,57,specificity,0.6367,0.0429,0.7

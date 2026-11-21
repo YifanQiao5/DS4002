@@ -1,0 +1,5 @@
+held_out_site,n_train,n_test,n_test_ASD,n_test_TDC,balanced_accuracy,roc_auc,sensitivity,specificity
+NYU,40,20,10,10,0.75,0.75,0.8,0.7
+UCLA_1,40,20,10,10,0.75,0.79,0.6,0.9
+UM_1,40,20,10,10,0.75,0.78,0.9,0.6
+Mean across sites,,,,,0.75,0.7733,0.7667,0.7333

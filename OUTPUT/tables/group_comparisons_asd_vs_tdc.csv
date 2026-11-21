@@ -1,0 +1,4 @@
+variable,test,ASD_mean,TDC_mean,statistic,p_value,unit
+age,Welch t-test,13.91,13.934666666666667,-0.028054912452543275,0.9777146652217993,years
+mean_fd,Welch t-test,0.07965802673333332,0.061310772776666654,1.9416721594113464,0.057393363875713234,mm
+sex (F/M),Fisher exact,4F/26M,4F/26M,1.0,1.0,count

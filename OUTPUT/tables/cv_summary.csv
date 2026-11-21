@@ -1,0 +1,5 @@
+metric,mean,sd_across_repeats
+balanced_accuracy,0.7067,0.0459
+roc_auc,0.7867,0.0294
+sensitivity,0.7733,0.0734
+specificity,0.64,0.0439
